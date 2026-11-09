@@ -7,7 +7,7 @@
 > todo, **mide la calidad de esas reglas** contra corpus de goodware y
 > malware. Detection engineering, no una caja negra.
 
-[![ci](https://github.com/jorgeress/crisol/actions/workflows/ci.yml/badge.svg)](https://github.com/jorgeress/crisol/actions/workflows/ci.yml)
+[![ci](https://github.com/0xjgr/crisol/actions/workflows/ci.yml/badge.svg)](https://github.com/0xjgr/crisol/actions/workflows/ci.yml)
 ![python](https://img.shields.io/badge/python-3.11+-blue)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
